@@ -1,5 +1,5 @@
 # 💫 About Me:
-1st Year Student at NU East Ortigas studying Computer Scientist<br><br>🔭 I’m currently working on an Airline Reservation System prototype for our chapter 1 defense<br>🌱 I’m currently learning Nodejs and Express to make server side applications<br>
+1st Year Student at NU East Ortigas studying Computer Science<br><br>🔭 I’m currently replicating the Discord Landing Page to practice my HTML and CSS<br>🌱 I’m currently learning HTML and CSS to learn about the Front end<br>
 
 
 # 💻 Tech Stack:
