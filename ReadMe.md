@@ -1,5 +1,6 @@
 # 💫 About Me:
-1st Year Student at NU East Ortigas studying Computer Science<br><br>🔭 I’m currently replicating the Discord Landing Page to practice my HTML and CSS<br>🌱 I’m currently learning HTML and CSS to learn about the Front end<br>
+1st Year Student at NU East Ortigas studying Computer Science<br>
+Self-taught developer who's passionate about full-stack development
 
 
 # 💻 Tech Stack:
@@ -12,4 +13,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=LeanSaldivar&icon=0&color=0)](https://visitcount.itsvg.in)
 
+# Connect With me
+ - [LinkedIn](https://www.linkedin.com/in/lean-emmanuel-saldivar-1236a3361/)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
