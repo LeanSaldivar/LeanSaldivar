@@ -1,5 +1,5 @@
 # 💫 About Me:
-1st Year Student at NU East Ortigas studying Computer Science<br>
+2nd Year Student at NU East Ortigas studying Computer Science<br>
 Self-taught developer who's passionate about full-stack development
 
 
